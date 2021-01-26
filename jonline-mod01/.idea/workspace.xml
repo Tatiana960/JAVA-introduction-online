@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3d4d6222-51d5-4a30-9c23-669da31a7acb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="https://github.com/Tatiana960/Basics_of_software_code_development.git" />
+  </component>
+  <component name="ProjectId" id="1Yhy4LaOMWrrEyHjhUc8PA34Nmt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../jonline-module1" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="GreatestCommonDivisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.epam.student.dailid.module2.decomposition.task2.GreatestCommonDivisor" />
+      <module name="jonline-mod01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.epam.student.dailid.module2.decomposition.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongerNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.epam.student.dailid.module2.decomposition.task11.LongerNum" />
+      <module name="jonline-mod01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.epam.student.dailid.module2.decomposition.task11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.epam.student.dailid.module2.decomposition.sort.task1.Main" />
+      <module name="jonline-mod01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.epam.student.dailid.module2.decomposition.sort.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.epam.student.dailid.module2.decomposition.task5.SecondNum" />
+      <module name="jonline-mod01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.epam.student.dailid.module2.decomposition.task5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.epam.student.dailid.module2.decomposition.task6.SimpleNums" />
+      <module name="jonline-mod01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.epam.student.dailid.module2.decomposition.task6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.SimpleNums" />
+        <item itemvalue="Application.GreatestCommonDivisor" />
+        <item itemvalue="Application.LongerNum" />
+        <item itemvalue="Application.SecondNum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d4d6222-51d5-4a30-9c23-669da31a7acb" name="Default Changelist" comment="" />
+      <created>1583408928260</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583408928260</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="312" y="94" key="#Notifications" timestamp="1584976128205">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="312" y="94" key="#Notifications/0.0.1440.870@0.0.1440.870" timestamp="1584976128205" />
+    <state x="496" y="239" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583409126132">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="496" y="239" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.870@0.0.1440.870" timestamp="1583409126132" />
+    <state x="450" y="183" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1583959542612">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="450" y="183" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1440.870@0.0.1440.870" timestamp="1583959542612" />
+    <state x="500" y="177" key="FileChooserDialogImpl" timestamp="1584976075655">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="500" y="177" key="FileChooserDialogImpl/0.0.1440.870@0.0.1440.870" timestamp="1584976075655" />
+    <state width="1340" height="225" key="GridCell.Tab.0.bottom" timestamp="1584972199406">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1340" height="225" key="GridCell.Tab.0.bottom/0.0.1440.870@0.0.1440.870" timestamp="1584972199406" />
+    <state width="1340" height="225" key="GridCell.Tab.0.center" timestamp="1584972199405">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1340" height="225" key="GridCell.Tab.0.center/0.0.1440.870@0.0.1440.870" timestamp="1584972199405" />
+    <state width="1340" height="225" key="GridCell.Tab.0.left" timestamp="1584972199405">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1340" height="225" key="GridCell.Tab.0.left/0.0.1440.870@0.0.1440.870" timestamp="1584972199405" />
+    <state width="1340" height="225" key="GridCell.Tab.0.right" timestamp="1584972199405">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1340" height="225" key="GridCell.Tab.0.right/0.0.1440.870@0.0.1440.870" timestamp="1584972199405" />
+    <state width="1340" height="260" key="GridCell.Tab.1.bottom" timestamp="1584923384366">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1340" height="260" key="GridCell.Tab.1.bottom/0.0.1440.870@0.0.1440.870" timestamp="1584923384366" />
+    <state width="1340" height="260" key="GridCell.Tab.1.center" timestamp="1584923384366">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1340" height="260" key="GridCell.Tab.1.center/0.0.1440.870@0.0.1440.870" timestamp="1584923384366" />
+    <state width="1340" height="260" key="GridCell.Tab.1.left" timestamp="1584923384366">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1340" height="260" key="GridCell.Tab.1.left/0.0.1440.870@0.0.1440.870" timestamp="1584923384366" />
+    <state width="1340" height="260" key="GridCell.Tab.1.right" timestamp="1584923384366">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1340" height="260" key="GridCell.Tab.1.right/0.0.1440.870@0.0.1440.870" timestamp="1584923384366" />
+    <state x="221" y="78" key="SettingsEditor" timestamp="1584976110066">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="221" y="78" key="SettingsEditor/0.0.1440.870@0.0.1440.870" timestamp="1584976110066" />
+    <state x="367" y="51" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584476410881">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="367" y="51" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.870@0.0.1440.870" timestamp="1584476410881" />
+    <state x="297" y="172" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583776405774">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="297" y="172" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1440.870@0.0.1440.870" timestamp="1583776405774" />
+    <state x="102" y="56" key="new project wizard" timestamp="1584972197204">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="102" y="56" key="new project wizard/0.0.1440.870@0.0.1440.870" timestamp="1584972197204" />
+    <state x="376" y="200" key="run.anything.popup" timestamp="1584886974121">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="376" y="200" key="run.anything.popup/0.0.1440.870@0.0.1440.870" timestamp="1584886974121" />
+    <state x="383" y="191" width="672" height="678" key="search.everywhere.popup" timestamp="1584308730524">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="383" y="191" width="672" height="678" key="search.everywhere.popup/0.0.1440.870@0.0.1440.870" timestamp="1584308730524" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/epam/student/dailid/module1/ex5.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/miscellanneous/ex2.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/miscellanneous/EchoTestDrive.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/miscellanneous/Hobbits.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/miscellanneous/TestArrays.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/miscellanneous/Triangle.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/miscellanneous/Puzzle4.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/miscellanneous/Test13.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/epam/student/dailid/module1/ex19.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/by/epam/student/dailid/module2/multidimensionalarrays/task6/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/jonline_mod01$test.ic" NAME="test Coverage Results" MODIFIED="1583796590697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>miscellanneous.*</FILTER>
+    </SUITE>
+  </component>
+</project>

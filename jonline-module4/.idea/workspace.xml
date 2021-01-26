@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="560262bd-8eb0-481f-aa16-1735227bb272" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bED8PxZOdqEbEMiwelXc4e25t6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Charge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.epam.dailid.task2.Charge" />
+      <module name="jonline-module4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.epam.dailid.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.epam.dailid.task4.Main" />
+      <module name="jonline-module4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.epam.dailid.task4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.epam.dailid.task8.Main" />
+      <module name="jonline-module4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.epam.dailid.task8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.epam.dailid.task3.Main" />
+      <module name="jonline-module4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.epam.dailid.task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.epam.dailid.task5.Main" />
+      <module name="jonline-module4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.epam.dailid.task5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Charge" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="560262bd-8eb0-481f-aa16-1735227bb272" name="Default Changelist" comment="" />
+      <created>1588188199573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588188199573</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1340" height="209" key="GridCell.Tab.0.bottom" timestamp="1610222919070">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1340" height="209" key="GridCell.Tab.0.bottom/0.0.1440.870@0.0.1440.870" timestamp="1610222919070" />
+    <state width="1340" height="209" key="GridCell.Tab.0.center" timestamp="1610222919070">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1340" height="209" key="GridCell.Tab.0.center/0.0.1440.870@0.0.1440.870" timestamp="1610222919070" />
+    <state width="1340" height="209" key="GridCell.Tab.0.left" timestamp="1610222919070">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1340" height="209" key="GridCell.Tab.0.left/0.0.1440.870@0.0.1440.870" timestamp="1610222919070" />
+    <state width="1340" height="209" key="GridCell.Tab.0.right" timestamp="1610222919070">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1340" height="209" key="GridCell.Tab.0.right/0.0.1440.870@0.0.1440.870" timestamp="1610222919070" />
+  </component>
+</project>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d42346d8-873b-4cde-85dd-4a5bb3ea23a1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/by/epam/dailid/module1/task1" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\User\IdeaProjects\jonline-module1" />
+        <option value="C:\Users\User\IdeaProjects\jonline-module1\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZX4eCq4iMQ9e8GonADGkRM6CO7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="by.epam.dailid.module1.task1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.epam.dailid.module1.task2.Main" />
+      <module name="jonline-mod1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.epam.dailid.module1.task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.epam.dailid.module1.task1.Main" />
+      <module name="jonline-mod1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.epam.dailid.module1.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d42346d8-873b-4cde-85dd-4a5bb3ea23a1" name="Default Changelist" comment="" />
+      <created>1584972197329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584972197329</updated>
+    </task>
+    <task id="LOCAL-00001" summary="nothing">
+      <created>1584998605758</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584998605759</updated>
+    </task>
+    <task id="LOCAL-00002" summary="nothing">
+      <created>1585049198786</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585049198786</updated>
+    </task>
+    <task id="LOCAL-00003" summary="nothing">
+      <created>1585049943791</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585049943791</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit2">
+      <created>1585049992484</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585049992484</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit2">
+      <created>1585052191320</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585052191320</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit2">
+      <created>1585053755943</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1585053755943</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit2">
+      <created>1585053969204</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1585053969204</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit2">
+      <created>1585053981229</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1585053981229</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="nothing" />
+    <MESSAGE value="commit2" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="312" y="94" key="#Notifications" timestamp="1585001982719">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="312" y="94" key="#Notifications/0.0.1440.870@0.0.1440.870" timestamp="1585001982719" />
+    <state x="568" y="324" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585053946547">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="568" y="324" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.870@0.0.1440.870" timestamp="1585053946547" />
+    <state x="372" y="30" width="692" height="657" key="CommitChangelistDialog2" timestamp="1585053981209">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="372" y="30" width="692" height="657" key="CommitChangelistDialog2/0.0.1440.870@0.0.1440.870" timestamp="1585053981209" />
+    <state x="214" y="200" width="673" height="306" key="DiffContextDialog" timestamp="1585050826157">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="214" y="200" width="673" height="306" key="DiffContextDialog/0.0.1440.870@0.0.1440.870" timestamp="1585050826157" />
+    <state x="500" y="191" key="FileChooserDialogImpl" timestamp="1585052471542">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="500" y="191" key="FileChooserDialogImpl/0.0.1440.870@0.0.1440.870" timestamp="1585052471542" />
+    <state x="580" y="329" key="Github.ShareDialog" timestamp="1584998738435">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="580" y="329" key="Github.ShareDialog/0.0.1440.870@0.0.1440.870" timestamp="1584998738435" />
+    <state x="488" y="141" key="Github.UntrackedFilesDialog" timestamp="1584994838772">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="488" y="141" key="Github.UntrackedFilesDialog/0.0.1440.870@0.0.1440.870" timestamp="1584994838772" />
+    <state width="1340" height="209" key="GridCell.Tab.0.bottom" timestamp="1585052474487">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1340" height="209" key="GridCell.Tab.0.bottom/0.0.1440.870@0.0.1440.870" timestamp="1585052474487" />
+    <state width="1340" height="209" key="GridCell.Tab.0.center" timestamp="1585052474487">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1340" height="209" key="GridCell.Tab.0.center/0.0.1440.870@0.0.1440.870" timestamp="1585052474487" />
+    <state width="1340" height="209" key="GridCell.Tab.0.left" timestamp="1585052474487">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1340" height="209" key="GridCell.Tab.0.left/0.0.1440.870@0.0.1440.870" timestamp="1585052474487" />
+    <state width="1340" height="209" key="GridCell.Tab.0.right" timestamp="1585052474487">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1340" height="209" key="GridCell.Tab.0.right/0.0.1440.870@0.0.1440.870" timestamp="1585052474487" />
+    <state x="480" y="157" key="RollbackChangesDialog" timestamp="1584996463354">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="480" y="157" key="RollbackChangesDialog/0.0.1440.870@0.0.1440.870" timestamp="1584996463354" />
+    <state x="221" y="20" key="SettingsEditor" timestamp="1584997647362">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="221" y="20" key="SettingsEditor/0.0.1440.870@0.0.1440.870" timestamp="1584997647362" />
+    <state x="312" y="169" key="Vcs.Push.Dialog.v2" timestamp="1585054019108">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="312" y="169" key="Vcs.Push.Dialog.v2/0.0.1440.870@0.0.1440.870" timestamp="1585054019108" />
+    <state x="529" y="353" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585052290860">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="529" y="353" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.870@0.0.1440.870" timestamp="1585052290860" />
+    <state x="417" y="33" width="606" height="804" key="find.popup" timestamp="1584996623759">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="417" y="33" width="606" height="804" key="find.popup/0.0.1440.870@0.0.1440.870" timestamp="1584996623759" />
+    <state x="532" y="300" key="git4idea.rebase.GitRebaseDialog" timestamp="1584997598543">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="532" y="300" key="git4idea.rebase.GitRebaseDialog/0.0.1440.870@0.0.1440.870" timestamp="1584997598543" />
+    <state x="102" y="56" key="new project wizard" timestamp="1585059429400">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="102" y="56" key="new project wizard/0.0.1440.870@0.0.1440.870" timestamp="1585059429400" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/jonline_module1$Main.ic" NAME="Main Coverage Results" MODIFIED="1585002195201" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>by.epam.dailid.module1.task1.*</FILTER>
+    </SUITE>
+  </component>
+</project>

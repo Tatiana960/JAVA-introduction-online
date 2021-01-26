@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="007423f3-f550-4674-8fc3-d24aa0d2b56b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aBMXUDY2EWSyekJd2kxB0Y0Qd0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.TestBoats">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.epam.dailid.objstring.task8.Main" />
+      <module name="Jonline-module3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.epam.dailid.objstring.task8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.epam.dailid.objstring.task7.Main" />
+      <module name="Jonline-module3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.epam.dailid.objstring.task7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.epam.dailid.regularexpressions.task1.Main" />
+      <module name="Jonline-module3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.epam.dailid.regularexpressions.task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rowboat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.epam.dailid.objstring.test.Rowboat" />
+      <module name="Jonline-module3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.epam.dailid.objstring.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestBoats" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.epam.dailid.objstring.test.TestBoats" />
+      <module name="Jonline-module3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.epam.dailid.objstring.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestBoats" />
+        <item itemvalue="Application.Rowboat" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="007423f3-f550-4674-8fc3-d24aa0d2b56b" name="Default Changelist" comment="" />
+      <created>1586204573036</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586204573036</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="450" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588187086385">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="450" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.870@0.0.1440.870" timestamp="1588187086385" />
+    <state width="1340" height="209" key="GridCell.Tab.0.bottom" timestamp="1588193527390">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1340" height="209" key="GridCell.Tab.0.bottom/0.0.1440.870@0.0.1440.870" timestamp="1588193527390" />
+    <state width="1340" height="209" key="GridCell.Tab.0.center" timestamp="1588193527390">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1340" height="209" key="GridCell.Tab.0.center/0.0.1440.870@0.0.1440.870" timestamp="1588193527390" />
+    <state width="1340" height="209" key="GridCell.Tab.0.left" timestamp="1588193527390">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1340" height="209" key="GridCell.Tab.0.left/0.0.1440.870@0.0.1440.870" timestamp="1588193527390" />
+    <state width="1340" height="209" key="GridCell.Tab.0.right" timestamp="1588193527390">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1340" height="209" key="GridCell.Tab.0.right/0.0.1440.870@0.0.1440.870" timestamp="1588193527390" />
+    <state width="1340" height="260" key="GridCell.Tab.1.bottom" timestamp="1587390123907">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1340" height="260" key="GridCell.Tab.1.bottom/0.0.1440.870@0.0.1440.870" timestamp="1587390123907" />
+    <state width="1340" height="260" key="GridCell.Tab.1.center" timestamp="1587390123907">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1340" height="260" key="GridCell.Tab.1.center/0.0.1440.870@0.0.1440.870" timestamp="1587390123907" />
+    <state width="1340" height="260" key="GridCell.Tab.1.left" timestamp="1587390123907">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1340" height="260" key="GridCell.Tab.1.left/0.0.1440.870@0.0.1440.870" timestamp="1587390123907" />
+    <state width="1340" height="260" key="GridCell.Tab.1.right" timestamp="1587390123907">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1340" height="260" key="GridCell.Tab.1.right/0.0.1440.870@0.0.1440.870" timestamp="1587390123907" />
+    <state x="102" y="56" key="new project wizard" timestamp="1588188199485">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="102" y="56" key="new project wizard/0.0.1440.870@0.0.1440.870" timestamp="1588188199485" />
+  </component>
+</project>
